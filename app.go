@@ -1,5 +1,6 @@
 package testgomod
 
-func output(a, b int) int {
+// Add adds a and b.
+func Add(a, b int) int {
 	return a + b
 }
